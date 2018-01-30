@@ -1,0 +1,17 @@
+*.swp
+*.out
+*.pyc
+*txt
+old_stuff/
+csv_imports/
+pickles/
+
+test_suites/
+materialized_files/*
+
+data_files/
+config.py
+
+Dockerfile
+.DS_Store
+logs/*
